@@ -38,7 +38,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    CertificateCourse("Luis Miguel Gallego Basteri", "certificado", 48)
+                    CertificateCourse("Luis Miguel Gallego Basteri", "Antroid Pro-Master", 48)
                 }
             }
         }
